@@ -1,4 +1,4 @@
-$('p').on('mouseover', function() {$(this).css({ "color": "red",}); });
+$('p').on('mouseover', function() {$(this).css({ "color": "blue",}); });
 $('h2').on('mouseover', function() {
   $(this).toggleClass('cool');
 });
